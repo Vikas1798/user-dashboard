@@ -25,7 +25,7 @@
     - yarn run dev
 
 ### Live Demo
-    https://juspay-dashboard-app.vercel.app/
+    https://user-dashboard-zeta-one.vercel.app/orders
 
 ## Screenshots
 ![Home Page Screenshot](https://github.com/Vikas1798/juspay-dashboard/blob/master/src/assets/ProjectImage/1.png)
