@@ -25,7 +25,7 @@
     - yarn run dev
 
 ### Live Demo
-    https://user-dashboard-zeta-one.vercel.app/orders
+    https://user-dashboard-zeta-one.vercel.app
 
 ## Screenshots
 ![Home Page Screenshot](https://github.com/Vikas1798/user-dashboard/blob/master/src/assets/ProjectImage/1.png)
