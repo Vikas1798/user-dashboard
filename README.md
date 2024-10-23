@@ -28,8 +28,11 @@
     https://user-dashboard-zeta-one.vercel.app/orders
 
 ## Screenshots
-![Home Page Screenshot](https://github.com/Vikas1798/juspay-dashboard/blob/master/src/assets/ProjectImage/1.png)
-![Home Page Screenshot : dark mode](https://github.com/Vikas1798/juspay-dashboard/blob/master/src/assets/ProjectImage/2.png)
-![Order List Page Screenshot ](https://github.com/Vikas1798/juspay-dashboard/blob/master/src/assets/ProjectImage/3.png)
-![Order List Page Screenshot : dark mode](https://github.com/Vikas1798/juspay-dashboard/blob/master/src/assets/ProjectImage/4.png)
+![Home Page Screenshot](https://github.com/Vikas1798/user-dashboard/blob/master/src/assets/ProjectImage/1.png)
+![Home Page Screenshot : dark mode](https://github.com/Vikas1798/user-dashboard/blob/master/src/assets/ProjectImage/2.png)
+![Order List Page Screenshot ](https://github.com/Vikas1798/user-dashboard/blob/master/src/assets/ProjectImage/3.png)
+![Order List Page Screenshot : dark mode](https://github.com/Vikas1798/user-dashboard/blob/master/src/assets/ProjectImage/4.png)
+![Order List Page Screenshot : dark mode](https://github.com/Vikas1798/user-dashboard/blob/master/src/assets/ProjectImage/5.png)
+![Order List Page Screenshot : dark mode](https://github.com/Vikas1798/user-dashboard/blob/master/src/assets/ProjectImage/6.png)
+
 
